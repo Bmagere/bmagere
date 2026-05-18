@@ -183,7 +183,7 @@ The next destination is still undecided.
 
 - GitHub: [bmagere](https://github.com/Bmagere)
 - LinkedIn: [bmagere](https://www.linkedin.com/in/bastien-magere)
-- Portfolio / Website: [cabinethypnoseangouleme](https://cabinethypnoseangouleme.wordpress.com)
+- Website Pro: [cabinethypnoseangouleme](https://cabinethypnoseangouleme.wordpress.com)
 
 <br> 
 <br> 
