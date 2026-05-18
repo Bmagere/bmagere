@@ -182,7 +182,7 @@ The next destination is still undecided.
 ## 🤝 contact
 
 - GitHub: [bmagere](https://github.com/Bmagere)
-- LinkedIn: [bmagere](www.linkedin.com/in/bastien-magere)
+- LinkedIn: [bmagere](https://www.linkedin.com/in/bastien-magere)
 - Portfolio / Website: [cabinethypnoseangouleme](https://cabinethypnoseangouleme.wordpress.com)
 
 <br> 
