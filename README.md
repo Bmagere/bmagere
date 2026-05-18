@@ -181,8 +181,8 @@ The next destination is still undecided.
 
 ## 🤝 contact
 
-- GitHub: [Leon-le-Herisson](https://github.com/Leon-le-Herisson)
-- LinkedIn: coming soon
+- GitHub: [bmagere](https://github.com/Bmagere)
+- LinkedIn: [bmagere](www.linkedin.com/in/bastien-magere)
 - Portfolio / Website: [cabinethypnoseangouleme](https://cabinethypnoseangouleme.wordpress.com)
 
 <br> 
